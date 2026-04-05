@@ -1,4 +1,4 @@
-# README.md: Student Performance Analysis & Prediction
+# README: Student Performance Analysis & Prediction
 
 ## Project Overview
 This project provides an end-to-end data science pipeline to analyze student performance and predict academic outcomes. Using a sample dataset of 15 students, the project covers data ingestion, exploratory data analysis (EDA), statistical visualization, and machine learning classification.
